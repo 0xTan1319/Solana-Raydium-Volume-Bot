@@ -1,6 +1,6 @@
-# Raydium Volume Bot
+# **Solana Raydium Volume Bot**
 
-The Solana Raydium Volume Bot is a sophisticated tool to facilitate volume transactionson Raydium dex on the Solana blockchain. This script is ideal for users seeking to streamline complex transaction processes while maximizing performance.
+The **Solana Raydium Volume Bot** is a sophisticated tool to facilitate volume transactionson Raydium dex on the Solana blockchain. This script is ideal for users seeking to streamline complex transaction processes while maximizing performance.
 
 ## Initial Setup
 
@@ -60,7 +60,7 @@ Retrieve remaining funds from the keypairs, consolidating WSOL and SOL back to t
 
 I have developed a bot project for version 1. The Premium Version 2 has also been completed, tailored specifically to meet the needs of traders and clients.
 
-For detailed guidance and technical assistance, feel free to reach out to me directly on Telegram and Twitter.
+Now I have developed version 3. If you want any support for this, contact me anytime.
 
 ### Contact info
 
